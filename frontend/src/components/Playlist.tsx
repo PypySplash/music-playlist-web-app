@@ -46,7 +46,7 @@ export default function Playlist({ id, title, description, songs, isButtonActive
             maxWidth: { md: 240, xl: 240 },
           }}
           alt="The Playlist cover"
-          src="https://i.pinimg.com/564x/cf/c9/04/cfc904ede7ec44408ab0a162a20394e3.jpg"
+          src="https://montrealethics.ai/wp-content/uploads/2022/05/alexander-shatov-JlO3-oY5ZlQ-unsplash-768x576.jpg"
           onClick={handleClickOpen}
           className="cursor-pointer rounded-2xl"
         />
