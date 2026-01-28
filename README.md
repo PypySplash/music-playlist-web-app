@@ -4,6 +4,14 @@ A full-stack web application for creating and managing music playlists. Built wi
 
 
 
+### Home Page
+![Home Page](./demo/home-page.png)
+
+### Playlist Page  
+![Playlist Page](./demo/playlist.png)
+
+
+
 ## Features
 
 **Playlist Management** - Create, edit, and delete playlists with real-time updates  
